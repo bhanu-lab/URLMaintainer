@@ -1,0 +1,9 @@
+mapper:
+  - path: mail
+    url: https://mail.google.com/mail/u/0/
+  - path: calendar
+    url: https://calendar.google.com/calendar/u/0/r
+  - path: reddit
+    url: https://www.reddit.com/
+  - path: music
+    url: https://music.amazon.in/
